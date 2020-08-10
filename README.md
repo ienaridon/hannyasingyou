@@ -1,6 +1,6 @@
 # 写経
 般若心経を写経するWindowsソフトです。
-hannya1.png
+!(ICON)hannya1.png
 ソースコードは消失してしまいました。
 
 # インストール
